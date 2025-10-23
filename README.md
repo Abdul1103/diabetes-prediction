@@ -1,4 +1,5 @@
-![Diabetes Prediction Banner](./screenshots/banner.png)
+![Banner](./banner/banner.jpg)
+
 # 🩺 Diabetes Prediction using Machine Learning
 
 ## 📚 Table of Contents
