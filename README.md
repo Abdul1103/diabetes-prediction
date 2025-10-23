@@ -1,4 +1,4 @@
-![Diabetes Prediction](https://miro.medium.com/v2/resize:fit:1400/1*KyaDYHlZkVTJfQ0Zt6k8qg.png)
+![Diabetes Prediction Banner](./screenshots/banner.png)
 # 🩺 Diabetes Prediction using Machine Learning
 
 ## 📚 Table of Contents
